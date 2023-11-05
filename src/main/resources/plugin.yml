@@ -1,0 +1,4 @@
+name: Plants-vs-Zombies
+version: '${project.version}'
+main: me.simonfoy.plantsvszombies.Plants_vs_Zombies
+api-version: '1.20'
